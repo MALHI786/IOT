@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "D:/wokwi"
+		},
+		{
+			"name": "test",
+			"path": "C:/Users/salma/Documents/PlatformIO/Projects/test"
+		},
+		{
+			"name": "Week 4",
+			"path": "../Week 4"
+		},
+		{
+			"name": "Week4 part3",
+			"path": "../Week 4/Week4 part3"
+		},
+		{
+			"name": "pwm",
+			"path": "C:/Users/salma/Documents/PlatformIO/Projects/pwm"
+		},
+		{
+			"name": "Buzzer week 5 part 3",
+			"path": "../Buzzer week 5 part 3"
+		},
+		{
+			"name": "Week 6 DLT",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
